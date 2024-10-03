@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+scikit-learn
+sqlalchemy
+scipy
+dash
+plotly
+dash-bootstrap-components
+statsmodels
+psycopg2-binary
