@@ -1,5 +1,5 @@
 ## spatial distribution of neurotransmission markers
-a web-based application that enables the exploration of interactive neurotranscriptomic maps for **gene-centric** multi-issue differential expression analysis and **pattern-centric** putative regulatory modules (patterns)
+a web-based application that enables the exploration of interactive neurotranscriptomic maps for **gene-centric** multi-tissue differential expression analysis and **pattern-centric** putative regulatory modules (patterns)
 
 ### prerequisites
 - `python 3.10` or higher
